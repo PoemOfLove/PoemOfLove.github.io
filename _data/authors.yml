@@ -24,8 +24,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <PoemOfLove>
-    email:           <namo0218@gmail.com>
+    github:          PoemOfLove
+    email:           namo0218@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +36,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <_nemoya>
+    instagram:       _nemoya
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
