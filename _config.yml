@@ -37,24 +37,35 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  sets/img/namo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Namho> <Cho>
+  email:               <namo0218@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  - title:             HOME
+    url:               /home/
+  - title:             ABOUT
     url:               /about/
+  - title:             TECK SKILL
+    url:               /teck skill/
+  - title:             PROJECT
+    url:               /project/    
+  - title:             EXPERIENCE
+    url:               /experience/
+  - title:             CAREER
+    url:               /career/
+  - title:             EDUCATION
+    url:               /education/
+  - title:             CONTACT
+    url:               /contact/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -88,8 +99,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          none #/assets/img/sidebar-bg.jpg
+accent_color:          rgb(68,53,68) #rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
